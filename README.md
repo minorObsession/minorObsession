@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development (Web Development)
 - 🌱 I’m currently learning the React framework
 - 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me: Instagram: https://www.instagram.com/djgodgiven; 
+- 📫 How to reach me: Instagram: https://www.instagram.com/djgodgiven
 - ⚡ Fun fact: Besides being a Dev, I'm also a Music Producer and DJ
 
 <!---
