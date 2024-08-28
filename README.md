@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minorObsession but call me Bobby
+- 👋 Call me Bobby
 - 👀 I’m interested in Software Development (Web Development)
 - 🌱 I’m currently learning the React library! 
 - 💞️ I’m looking to collaborate on Web Dev projects
