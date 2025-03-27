@@ -1,9 +1,7 @@
-- 👋 Call me Bobby
-- 💻 React.js | JavaScript Developer
+- 💻 React Developer
 - 🌱 Currently learning Next.js 
 - 📫 How to reach me: Instagram: https://www.instagram.com/djgodgiven
 - ⚡ Fun fact: Besides being a Dev, I'm also a Music Producer and DJ
-
 - ⏰ Actively participating in Chingu Voyage Collaboration projects 
 
 <!---
